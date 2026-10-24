@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="218 251.78 2282 1246.22" width="2282" height="1246.22">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1E8CFF"/><stop offset="1" stop-color="#5B53E6"/>
+    </linearGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#E7EDF8"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(140.00,540.00)">
+    
+    <g fill="#FFFFFF" transform="translate(0,723) scale(1,-1)">
+      <path transform="translate(0,0)" d="M507 700H127C96 700 78 683 78 652V48C78 17 96 0 127 0H189C220 0 237 17 237 48V284H466C497 284 514 302 514 333V360C514 391 497 408 466 408H237V566H507C538 566 555 583 555 614V652C555 683 538 700 507 700Z"/>
+      <path transform="translate(587,0)" d="M112 0H170C201 0 219 17 219 48V675C219 706 201 723 170 723H112C81 723 64 706 64 675V48C64 17 81 0 112 0Z"/>
+      <path transform="translate(869,0)" d="M112 0H170C201 0 219 17 219 48V466C219 497 201 514 170 514H112C81 514 64 497 64 466V48C64 17 81 0 112 0Z"/>
+      <path transform="translate(1151,0)" d="M110 0H169C200 0 217 17 217 48V262C217 358 272 399 325 399C378 399 406 357 406 285V48C406 17 423 0 454 0H512C543 0 561 17 561 48V296C561 417 511 525 373 525C297 525 242 491 217 432V466C217 497 200 514 169 514H110C79 514 62 497 62 466V48C62 17 79 0 110 0Z"/>
+      <path transform="translate(1767,0)" d="M308 -235C463 -235 593 -159 593 38V466C593 497 576 514 545 514H490C459 514 441 499 441 470V441C404 499 344 525 277 525C132 525 31 404 31 257C31 110 132 -11 277 -11C344 -11 406 15 443 72V34C443 -68 381 -115 294 -115C249 -115 207 -103 168 -83C140 -68 118 -73 103 -101L91 -123C76 -150 81 -175 108 -189C162 -217 228 -235 308 -235ZM312 111C232 111 183 177 183 257C183 336 232 403 312 403C391 403 443 339 444 257C443 175 391 111 312 111Z"/>
+    </g>
+    <path d="M752.42,126.35 C790.44,-1.18 860.29,-71.03 961.90,-83.13" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="49.71" stroke-linecap="round"/>
+    <g transform="rotate(-14 1027.28 -139.71)">
+      <rect x="904.77" y="-220.97" width="245.03" height="245.03" rx="53.69" fill="#0E1A45" opacity="0.28"/>
+      <rect x="904.77" y="-262.22" width="245.03" height="245.03" rx="53.69" fill="url(#tile)"/>
+      <rect x="948.87" y="-223.02" width="156.82" height="39.20" rx="19.60" fill="#FFFFFF" opacity="0.5"/>
+    </g>
+  </g>
+</svg>
